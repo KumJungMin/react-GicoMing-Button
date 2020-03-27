@@ -1,4 +1,4 @@
-# react-GicoMing-Button
+# react-GicoMong-Button
 ***버튼 애니메이션과 코드 간략화는 계속적으로 업데이트할 예정합니다.***
 
 
