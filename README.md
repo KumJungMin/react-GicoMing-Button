@@ -1,5 +1,10 @@
 # react-GicoMing-Button
-Created with CodeSandbox
+***버튼 애니메이션과 코드 간략화는 계속적으로 업데이트할 예정합니다.***
+
+
+
+## [2020.3.27] Updated
+
 
 1. 환경
  
