@@ -1,0 +1,12 @@
+/* .App :hover {
+  font-family: sans-serif;
+  text-align: center;
+} */
+
+.Basic {
+  text-align: right;
+}
+
+.Basic :hover {
+  text-align: center;
+}
